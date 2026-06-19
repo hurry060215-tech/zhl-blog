@@ -11,6 +11,13 @@ configuration:
     - private
     - templates
     - .obsidian
+    - "**/*.pdf"
+    - "**/*.doc"
+    - "**/*.docx"
+    - "**/*.ppt"
+    - "**/*.pptx"
+    - "**/.Rhistory"
+    - "OBStudy/图片附件"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

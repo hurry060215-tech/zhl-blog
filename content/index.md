@@ -1,30 +1,18 @@
 ---
-title: ZHL Academic Notes
-description: 个人学术主页、科研笔记、文献阅读与 SCOP 文档库。
+title: Hurry Blog
+description: OBStudy notes published with Quartz.
 tags:
   - index
 ---
 
-# ZHL Academic Notes
+# Hurry Blog
 
-这里是用 Obsidian 和 Quartz 维护的学术笔记库。
+## OBStudy
 
-## Research
+- [[OBStudy/大二上/0比赛]]
+- [[OBStudy/大二上/考试时间安排]]
+- [[OBStudy/大二下/课程内容/0考试安排]]
+- [[OBStudy/学习/26寒假生理带学/0总任务]]
+- [[OBStudy/科研迁移笔记/差异基因校正p值算法]]
+- [[OBStudy/雅思/hzz复盘题（较杂]]
 
-- [[SAH]]
-- [[Glymphatic]]
-- [[SpatialOmics]]
-- [[ETOA]]
-- [[CavernousSinus]]
-
-## Workbench
-
-- [[Papers]]
-- [[Protocols]]
-- [[SCOP]]
-
-## Start here
-
-- [[PSD95]]
-- [[Excitotoxicity]]
-- [[Neuroinflammation]]

@@ -1,0 +1,81 @@
+{
+	"nodes":[
+		{"id":"db37373f44dda740","type":"text","text":"信号转导与基因表达 - 1.5 学分","x":-389,"y":101,"width":300,"height":50},
+		{"id":"b83cd8da4e5d83f9","type":"text","text":"疾病的生物学基础 - 7.0 学分","x":-389,"y":180,"width":250,"height":60},
+		{"id":"9ca90d280d1882ee","type":"text","text":"医学统计学 - 2.5 学分","x":-389,"y":260,"width":250,"height":60},
+		{"id":"b46841b3ca0f0971","type":"text","text":"卫生法规 - 1.0 学分","x":-389,"y":502,"width":250,"height":60},
+		{"id":"1dae43328c937341","type":"text","text":"体育（匹克球） - 1.0 学分","x":-389,"y":600,"width":250,"height":60},
+		{"id":"bd0754a427f04ebc","type":"text","text":"马克思主义基本原理 - 3.0 学分\n张青(7A303)\n电话:13335773139\n邮箱:2508502541@99.com","x":-389,"y":840,"width":289,"height":140},
+		{"id":"fd5088322cf1801c","type":"file","file":"大二上/附件/c920d2e8da5d82678e02c59ecb6d4938.jpg","x":-840,"y":193,"width":260,"height":195},
+		{"id":"d467147848e5e86c","type":"file","file":"大二上/附件/Pasted image 20250909084201.png","x":-840,"y":43,"width":260,"height":173},
+		{"id":"4786abd57eda4c87","type":"text","text":"不要发水贴![[d93d9e28fb50ae9d4b072169fea86b2a 1.jpg]]\n3-4人 15-20min 主题三选一![[d22df063dfbeba3fa611eb849eba41ed 1.jpg]]\n![[849c68a55afd071a0f9d0244728b1ab8 1.jpg]]\n\n![[2558760741d873e5ecd5ffeca4be6962 1.jpg]]","x":-874,"y":710,"width":314,"height":930},
+		{"id":"4eba7bff3627fa21","type":"file","file":"附件1：CET4和CET6考试报名方法.docx","x":636,"y":1057,"width":78,"height":50},
+		{
+			"id":"5ba0fd1d0a741687",
+			"type":"text",
+			"text":"选修课\nc 线上 精神…\nd 劳动通论\n",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-389,
+			"y":1015,
+			"width":389,
+			"height":240
+		},
+		{"id":"6f8b6c9aa4bfef64","type":"file","file":"大二上/附件/Pasted image 20250912110538.png","x":-874,"y":502,"width":400,"height":153},
+		{"id":"e870ecaf35a4e811","type":"file","file":"大二上/附件/Pasted image 20250909210927.png","x":60,"y":-820,"width":232,"height":414},
+		{"id":"ec8dc9044e0e4af3","type":"text","text":"![[Pasted image 20250912110943.png]]\n![[Pasted image 20250912111003.png]]","x":360,"y":-706,"width":520,"height":226},
+		{"id":"d77682db0133664f","type":"text","text":"![[Pasted image 20250912111317.png]]","x":-1360,"y":-920,"width":1005,"height":780},
+		{"id":"47a0af77c7e4f689","type":"text","text":"![[Pasted image 20250912111740.png]]","x":504,"y":260,"width":421,"height":275},
+		{"id":"2fdcfed9960a5fd6","type":"text","text":"形势与政策 - 2.0 学分","x":-389,"y":748,"width":250,"height":50},
+		{"id":"a48c34e272bba11c","type":"text","text":"CET6\n12 月 13 日，15:00-17:25\n第三轮报名（**CET6≥425的其他在校生**）9月26日10:00-9月26日17:00。\n\n**学校同时开放滨海校区考场供同学们跨校区选报，先报先得。如学籍所在校区考位已满且其他校区有空余考位，学生可选择跨校区参加考试**。\n（四）无故缺考2025年上半年英语六级笔试的考生，取消本次英语六级笔试报名资格。网址：https://cet-bm.neea.edu.cn，具体操作详见附件1。","x":300,"y":716,"width":556,"height":309},
+		{"id":"2ffe7654c098cb3c","type":"text","text":"中医 2.5","x":-389,"y":358,"width":250,"height":60},
+		{"id":"bdd235b4bb0cf195","type":"text","text":"![[Pasted image 20250912111601.png]]\n![[Pasted image 20250912111619.png]]","x":120,"y":-320,"width":805,"height":300},
+		{"id":"87ce77d0fc809e51","type":"file","file":"大二上/附件/全科目整理.png","x":184,"y":43,"width":225,"height":419},
+		{"id":"5b75edcb1b66d86d","type":"file","file":"大二上/附件/Pasted image 20250920182044.png","x":460,"y":-1253,"width":651,"height":433},
+		{"id":"8603d2f37acc54a3","type":"text","text":"基础医学整合实验（一） - 2.0 学分","x":-389,"y":-70,"width":300,"height":50},
+		{"id":"c6c78588866632a7","type":"text","text":"局解与外科基本操作 - 2.5 学分","x":-389,"y":18,"width":300,"height":50},
+		{"id":"464c6316f38e64c2","type":"file","file":"图片附件/f3f868451060e05c2a1ebfc67b4344cd.jpg","x":-1480,"y":18,"width":500,"height":667},
+		{"id":"5990cfaf9bcd8693","type":"text","text":"![[Pasted image 20250912111937.png]]","x":-33,"y":480,"width":813,"height":460},
+		{"id":"2c1ed20f43c32899","type":"file","file":"大二上/附件/Pasted image 20250912111937.png","x":440,"y":1000,"width":400,"height":276}
+	],
+	"edges":[
+		{"id":"a9f14106e744ef44","toFloating":false,"fromNode":"db37373f44dda740","fromSide":"right","toNode":"87ce77d0fc809e51","toSide":"left"},
+		{"id":"ecc3aab8363795f9","fromNode":"9ca90d280d1882ee","fromSide":"right","toNode":"87ce77d0fc809e51","toSide":"left"},
+		{"id":"50a9e8fc3cc9971c","fromFloating":false,"fromNode":"c6c78588866632a7","fromSide":"right","toNode":"87ce77d0fc809e51","toSide":"left"},
+		{"id":"e42893cd9c07ce26","fromNode":"b83cd8da4e5d83f9","fromSide":"right","toNode":"87ce77d0fc809e51","toSide":"left"},
+		{"id":"999d598ac2c774a2","fromNode":"b83cd8da4e5d83f9","fromSide":"left","toNode":"fd5088322cf1801c","toSide":"right"},
+		{"id":"023103b333e9084d","fromNode":"db37373f44dda740","fromSide":"left","toNode":"d467147848e5e86c","toSide":"right"},
+		{"id":"6dd33cb169cc648f","fromNode":"bd0754a427f04ebc","fromSide":"left","toNode":"4786abd57eda4c87","toSide":"right"},
+		{"id":"8235de98e9fe80ab","fromNode":"b46841b3ca0f0971","fromSide":"left","toNode":"6f8b6c9aa4bfef64","toSide":"right"},
+		{"id":"d7d65f41f35b0af0","fromNode":"e870ecaf35a4e811","fromSide":"right","toNode":"ec8dc9044e0e4af3","toSide":"left"},
+		{"id":"3e7cd3bb20e07804","fromFloating":false,"fromNode":"8603d2f37acc54a3","fromSide":"left","toNode":"d77682db0133664f","toSide":"bottom"},
+		{"id":"bc4008e4c543ab3f","fromNode":"b83cd8da4e5d83f9","fromSide":"right","toNode":"bdd235b4bb0cf195","toSide":"left"},
+		{"id":"6c44cdd188b2e925","fromNode":"9ca90d280d1882ee","fromSide":"right","toNode":"47a0af77c7e4f689","toSide":"left"},
+		{"id":"736c7073e5d4de1c","fromFloating":false,"fromNode":"2ffe7654c098cb3c","fromSide":"right","toNode":"5990cfaf9bcd8693","toSide":"left"},
+		{"id":"350465fd4a8bd832","fromNode":"4eba7bff3627fa21","fromSide":"bottom","toNode":"a48c34e272bba11c","toSide":"bottom"},
+		{"id":"755faf998465ea89","fromNode":"c6c78588866632a7","fromSide":"right","toNode":"e870ecaf35a4e811","toSide":"left"},
+		{
+			"id":"d1cbd697d5a90a3e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ec8dc9044e0e4af3",
+			"fromSide":"top",
+			"toNode":"5b75edcb1b66d86d",
+			"toSide":"bottom"
+		},
+		{
+			"id":"5fd7e745d95a783c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b83cd8da4e5d83f9",
+			"fromSide":"left",
+			"toNode":"464c6316f38e64c2",
+			"toSide":"right"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

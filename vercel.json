@@ -1,6 +1,6 @@
 {
   "installCommand": "npm ci",
-  "buildCommand": "npx quartz build",
+  "buildCommand": "node --max-old-space-size=8192 quartz/bootstrap-cli.mjs build",
   "outputDirectory": "public",
   "cleanUrls": true
 }
