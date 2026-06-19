@@ -15,17 +15,6 @@ Open the local URL printed by Quartz, usually `http://localhost:8080`.
 
 Use `content/` as the Obsidian vault folder.
 
-Recommended top-level folders:
-
-- `SAH/`
-- `Glymphatic/`
-- `SpatialOmics/`
-- `ETOA/`
-- `CavernousSinus/`
-- `Papers/`
-- `Protocols/`
-- `SCOP/`
-
 Quartz supports Obsidian wikilinks such as `[[PSD95]]`, tags, backlinks, search, graph view, callouts, Mermaid, and LaTeX.
 
 LaTeX and generated OG images are disabled in `quartz.config.yaml` for now because their optional native/network dependencies are fragile on Windows and during first deployment. Re-enable `latex` after confirming the deployment environment installs its native dependencies cleanly.
