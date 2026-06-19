@@ -9,7 +9,7 @@
   "homepage": "https://zhl-blog.vercel.app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hurry060215/zhl-blog.git"
+    "url": "https://github.com/hurry060215-tech/zhl-blog.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",

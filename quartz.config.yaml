@@ -10,6 +10,7 @@ configuration:
   ignorePatterns:
     - private
     - templates
+    - Obsidian Vault
     - .obsidian
   theme:
     fontOrigin: googleFonts
@@ -224,7 +225,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/hurry060215/zhl-blog
+        GitHub: https://github.com/hurry060215-tech/zhl-blog
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
