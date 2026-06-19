@@ -10,7 +10,6 @@ configuration:
   ignorePatterns:
     - private
     - templates
-    - Obsidian Vault
     - .obsidian
   theme:
     fontOrigin: googleFonts
