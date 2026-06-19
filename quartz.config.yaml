@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: zh-CN
-  baseUrl: zhl-blog.vercel.app
+  baseUrl: hurry-blog.vercel.app
   ignorePatterns:
     - private
     - templates
