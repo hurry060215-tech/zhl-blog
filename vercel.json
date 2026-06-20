@@ -1,6 +1,6 @@
 {
-  "installCommand": "git lfs install && git lfs pull && npm ci",
-  "buildCommand": "node --max-old-space-size=8192 quartz/bootstrap-cli.mjs build",
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build",
   "outputDirectory": "public",
   "cleanUrls": true
 }

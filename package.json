@@ -14,7 +14,7 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "dev": "node --max-old-space-size=8192 quartz/bootstrap-cli.mjs build --serve",
-    "build": "node --max-old-space-size=8192 quartz/bootstrap-cli.mjs build",
+    "build": "node --max-old-space-size=8192 quartz/bootstrap-cli.mjs build && node scripts/rewrite-lfs-asset-links.mjs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
