@@ -1,1 +1,14 @@
 * text=auto eol=lf
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.doc filter=lfs diff=lfs merge=lfs -text
+*.ppt filter=lfs diff=lfs merge=lfs -text
+content/OBStudy/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+content/OBStudy/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+content/OBStudy/**/*.png filter=lfs diff=lfs merge=lfs -text
+content/OBStudy/**/*.gif filter=lfs diff=lfs merge=lfs -text
+content/OBStudy/**/*.webp filter=lfs diff=lfs merge=lfs -text
+content/OBStudy/**/*.bmp filter=lfs diff=lfs merge=lfs -text
+content/OBStudy/**/*.tif filter=lfs diff=lfs merge=lfs -text
+content/OBStudy/**/*.tiff filter=lfs diff=lfs merge=lfs -text

@@ -1,11 +1,5 @@
 .DS_Store
 .Rhistory
-*.pdf
-*.doc
-*.docx
-*.ppt
-*.pptx
-content/OBStudy/图片附件/
 node_modules
 public
 prof
